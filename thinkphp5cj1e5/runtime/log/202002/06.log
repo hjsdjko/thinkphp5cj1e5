@@ -1,0 +1,26 @@
+---------------------------------------------------------------
+[ 2020-02-06T15:00:19+08:00 ] 127.0.0.1 GET www.tp.com/inj/test/page
+[运行时间：1.721767s] [吞吐率：0.58req/s] [内存消耗：866.56kb] [文件加载：28]
+[ info ] [ LANG ] D:\phpStudy\PHPTutorial\WWW\code\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'inj',
+    1 => 'test',
+    2 => 'page',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'close',
+  'host' => 'www.tp.com',
+)
+[ info ] [ PARAM ] array (
+  '/inj/test/page' => '',
+)
+[ info ] [ LOG ] INIT File
